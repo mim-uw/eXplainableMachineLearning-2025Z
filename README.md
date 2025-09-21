@@ -44,12 +44,12 @@ Grades:
 
 ## Homeworks (0-24 points)
 
-- Homework 1 - Fairness for 0-4 points. **Deadline: 2024-10-17** (graded by ...)
-- Homework 2 - LIME for 0-4 points. **Deadline: 2024-10-24**  (graded by ...)
-- Homework 3 - SHAP for 0-4 points. **Deadline: 2024-10-31** (graded by ...)
-- Homework 4 - Gradients for 0-4 points. **Deadline: 2024-11-07** (graded by ...)
-- Homework 5 - PDP  for 0-4 points. **Deadline: 2024-11-21** (graded by ...)
-- Homework 6 - VIP  for 0-4 points. **Deadline: 2024-11-28** (graded by ...)
+- Homework 1 - Fairness for 0-4 points. **Deadline: 2025-10-17** (graded by ...)
+- Homework 2 - LIME for 0-4 points. **Deadline: 2025-10-24**  (graded by ...)
+- Homework 3 - SHAP for 0-4 points. **Deadline: 2025-10-31** (graded by ...)
+- Homework 4 - Gradients for 0-4 points. **Deadline: 2025-11-07** (graded by ...)
+- Homework 5 - PDP  for 0-4 points. **Deadline: 2025-11-21** (graded by ...)
+- Homework 6 - VIP  for 0-4 points. **Deadline: 2025-11-28** (graded by ...)
 
 
 ## Presentations (0-10 points)

@@ -2,7 +2,7 @@
 
 [**eXplainable Machine Learning**](https://usosweb.uw.edu.pl/kontroler.php?_action=katalog2/przedmioty/pokazPrzedmiot&kod=1000-319bEML) course for Machine Learning (MSc) studies at the University of Warsaw. 
 
-Meet the instructors: [@pbiecek](https://github.com/pbiecek) @sobieskibj](https://github.com/sobieskibj)
+Meet the instructors: [@pbiecek](https://github.com/pbiecek) [@sobieskibj](https://github.com/sobieskibj)
 
 ## Meeting schedules
 

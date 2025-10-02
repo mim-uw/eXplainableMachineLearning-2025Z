@@ -11,9 +11,9 @@ Plan for the winter semester 2025/2026. MIM_UW classes are on Fridays.
 * 2025-10-03 -- Introduction to Model Science, Extra reading: [Lipton 2017](https://arxiv.org/abs/1606.03490), [ModelScience](https://arxiv.org/abs/2508.20040v1)
 * 2025-10-10 -- Counterfactual explanations—what they are and how to find them, (guest lecture by Bartek Sobieski), Extra reading: [Global Counterfactual Directions](https://arxiv.org/abs/2404.12488) 
 * 2025-10-10 -- SHAP and friends, Extra reading: [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
-* 2025-10-17 -- (online!!!) LIME and friends, Extra reading: [Why Should I Trust You?](https://arxiv.org/abs/1602.04938), [LORE](https://arxiv.org/abs/1805.10820)
+* 2025-10-17 -- (*online!!!*) LIME and friends, Extra reading: [Why Should I Trust You?](https://arxiv.org/abs/1602.04938), [LORE](https://arxiv.org/abs/1805.10820)
 * 2025-10-24 -- SAE and other approaches to model control, (guest lecture by Vladimir Zaigrajew), Extra reading: [Hierarchical Sparse Autoencoders](https://arxiv.org/abs/2502.20578)
-* 2025-10-31 -- The inherent interpretability of prototype and concepts networks – solution or illusion? (guest lecture by Hubert Baniecki, Extra reading: [Birds look like cars](https://arxiv.org/abs/2503.08636)
+* 2025-10-31 -- The inherent interpretability of prototype and concepts networks – solution or illusion? (guest lecture by Hubert Baniecki), Extra reading: [Birds look like cars](https://arxiv.org/abs/2503.08636)
 * 2025-11-07 -- Partial Dependence, Ceteris Paribus and friends
 * 2025-11-21 -- VIP, gradients and friends
 * 2025-11-28 -- Fairness and biases, Extra reading: [Fairness and Machine Learning](https://fairmlbook.org/) 

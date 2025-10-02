@@ -15,7 +15,7 @@ Submit the homework to this directory.
 
 ## Deadline 
 
-2025-11-07 EOD
+2025-11-28 EOD
 
 ## Task
 

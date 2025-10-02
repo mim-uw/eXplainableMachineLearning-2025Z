@@ -9,27 +9,28 @@ Meet the instructors: [@pbiecek](https://github.com/pbiecek) [@hbaniecki](https:
 Plan for the winter semester 2025/2026. MIM_UW classes are on Fridays. 
 
 * 2025-10-03 -- Introduction to Model Science, Extra reading: [Lipton 2017](https://arxiv.org/abs/1606.03490), [ModelScience](https://arxiv.org/abs/2508.20040v1)
-* 2025-10-10 -- Fairness and biases, Extra reading: [Fairness and Machine Learning](https://fairmlbook.org/) 
-* 2025-10-17 -- LIME and friends, Extra reading: [Why Should I Trust You?](https://arxiv.org/abs/1602.04938), [LORE](https://arxiv.org/abs/1805.10820)
-* 2025-10-24 -- SHAP and friends, Extra reading: [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
-* 2025-10-31 -- Gradient-based explanations and friends,
-* 2025-11-07 -- PDP and friends,
-* 2025-11-21 -- VIP and friends,
-* 2025-11-28 -- Counterfactual explanations and friends,
-* 2025-12-05 -- PROJECT: **showcase** (in-person presentations)
-* 2025-12-12 -- Other topics, like evaluation of explanations/control with SAE
-* 2025-12-19
-* 2026-01-09 -- Student presentations	of research papers,
-* 2026-01-16
+* 2025-10-10 -- Counterfactual explanations—what they are and how to find them, (guest lecture by Bartek Sobieski), Extra reading: [Global Counterfactual Directions](https://arxiv.org/abs/2404.12488) 
+* 2025-10-10 -- SHAP and friends, Extra reading: [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+* 2025-10-17 -- (online!!!) LIME and friends, Extra reading: [Why Should I Trust You?](https://arxiv.org/abs/1602.04938), [LORE](https://arxiv.org/abs/1805.10820)
+* 2025-10-24 -- SAE and other approaches to model control, (guest lecture by Vladimir Zaigrajew), Extra reading: [Hierarchical Sparse Autoencoders](https://arxiv.org/abs/2502.20578)
+* 2025-10-31 -- The inherent interpretability of prototype and concepts networks – solution or illusion? (guest lecture by Hubert Baniecki, Extra reading: [Birds look like cars](https://arxiv.org/abs/2503.08636)
+* 2025-11-07 -- Partial Dependence, Ceteris Paribus and friends
+* 2025-11-21 -- VIP, gradients and friends
+* 2025-11-28 -- Fairness and biases, Extra reading: [Fairness and Machine Learning](https://fairmlbook.org/) 
+* 2025-12-05 (discussing projects)
+* 2025-12-12 -- PROJECT: **showcase** (in-person presentations)
+* 2025-12-19 (discussing projects)
+* 2026-01-09 -- Student presentations of research papers
+* 2026-01-16 (discussing projects)
 * 2026-01-23 -- PROJECT: **final presentation** (in-person presentations)
 
 ## How to get a good grade
 
 The final grade is based on activity in four areas:
 
-* mandatory: Project (0-36)
+* mandatory: Project (0-35 / 0-60)
 * mandatory: Exam (0-30)
-* optional: Homeworks (0-24)
+* optional: Homeworks (0-25)
 * optional: Presentation (0-10)
 
 In total you can get up to 100 points. 51 points are needed to pass this course.
@@ -42,14 +43,13 @@ Grades:
 * 81-90: (4.5) db+
 * 91-100: (5) bdb
 
-## Homeworks (0-24 points)
+## Homeworks (0-25 points)
 
-- Homework 1 - Fairness for 0-4 points. **Deadline: 2025-10-17** (graded by ...)
-- Homework 2 - LIME for 0-4 points. **Deadline: 2025-10-24**  (graded by ...)
-- Homework 3 - SHAP for 0-4 points. **Deadline: 2025-10-31** (graded by ...)
-- Homework 4 - Gradients for 0-4 points. **Deadline: 2025-11-07** (graded by ...)
-- Homework 5 - PDP  for 0-4 points. **Deadline: 2025-11-21** (graded by ...)
-- Homework 6 - VIP  for 0-4 points. **Deadline: 2025-11-28** (graded by ...)
+- Homework 1 - SHAP for 0-5 points. **Deadline: 2025-10-17** (graded by PBI)
+- Homework 2 - LIME for 0-5 points. **Deadline: 2025-10-24**  (graded by BSO)
+- Homework 3 - PDP  for 0-5 points. **Deadline: 2025-11-21** (graded by PBI)
+- Homework 4 - VIP and gradients for 0-5 points. **Deadline: 2025-11-28** (graded by BSO)
+- Homework 5 - Fairness for 0-5 points. **Deadline: 2025-12-05** (graded by PBI)
 
 
 ## Presentations (0-10 points)
